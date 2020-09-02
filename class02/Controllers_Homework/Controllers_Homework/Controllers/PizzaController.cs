@@ -44,7 +44,20 @@ namespace Controllers_Homework.Controllers
             return View(pizza);
         }
 
-        [HttpPost]
+
+
+        //[HttpGet]     
+        //public IActionResult DeletePizza(int id)
+        //{
+        //    PizzaModel models = PizzaDb.Pizzas.FirstOrDefault(p => p.Id == id);
+        //    return View(models);
+        //}
+
+
+
+
+
+        //[HttpPost]
         public IActionResult Delete(int id)
         {
             var pizza = PizzaDb.Pizzas.SingleOrDefault(x => x.Id == id);
