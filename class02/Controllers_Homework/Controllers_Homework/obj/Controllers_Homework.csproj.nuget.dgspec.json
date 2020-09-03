@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj": {}
+    "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\MVCdotNET\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj": {
+    "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\MVCdotNET\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj",
+        "projectUniqueName": "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\MVCdotNET\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj",
         "projectName": "Controllers_Homework",
-        "projectPath": "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj",
+        "projectPath": "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\MVCdotNET\\class02\\Controllers_Homework\\Controllers_Homework\\Controllers_Homework.csproj",
         "packagesPath": "C:\\Users\\arrma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\class02\\Controllers_Homework\\Controllers_Homework\\obj\\",
+        "outputPath": "C:\\Users\\arrma\\OneDrive\\Desktop\\webdevelopment\\MVCdotNET\\mvc_Homeworks\\MVCdotNET\\class02\\Controllers_Homework\\Controllers_Homework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

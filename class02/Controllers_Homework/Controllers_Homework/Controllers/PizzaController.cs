@@ -15,22 +15,25 @@ namespace Controllers_Homework.Controllers
             return View(pizzas);
             
         }
-    
-        public IActionResult Create()
+
+      
+        public IActionResult CreatePizza()
         {
             return View();
         }
 
-        [HttpPost("create")]
-        public IActionResult CreatePizza(PizzaModel model)
+        [HttpPost]
+        public IActionResult CreateNewPizza(PizzaModel model)
         {
-            PizzaModel pizza = new PizzaModel()
+            var newItem = new PizzaModel()
             {
+                Id = PizzaDb.Pizzas.Count + 1,
                 Name = model.Name,
-                Size = model.Size,
-                Id = PizzaDb.Pizzas.Count + 1
+                Size = model.Size
+               
             };
-            PizzaDb.Pizzas.Add(pizza);
+
+            PizzaDb.Pizzas.Add(newItem);
             return RedirectToAction("Index");
         }
 
@@ -40,16 +43,15 @@ namespace Controllers_Homework.Controllers
             return View(pizza);
         }
 
-        //[HttpGet]     
-        //public IActionResult DeletePizza(int id)
-        //{
-        //    PizzaModel models = PizzaDb.Pizzas.FirstOrDefault(p => p.Id == id);
-        //    return View(models);
-        //}
-
-
-        //[HttpPost]
+        [HttpGet("Delete/{id}")]
         public IActionResult Delete(int id)
+        {
+            PizzaModel models = PizzaDb.Pizzas.FirstOrDefault(p => p.Id == id);
+            return View(models);
+        }
+
+        [HttpPost("Delete/{id}"), ActionName("Delete")]
+        public IActionResult DeletePizza(int id)
         {
             var pizza = PizzaDb.Pizzas.SingleOrDefault(x => x.Id == id);
             PizzaDb.Pizzas.Remove(pizza);
@@ -60,7 +62,7 @@ namespace Controllers_Homework.Controllers
 
 
 
-   
+
 
 
     }
