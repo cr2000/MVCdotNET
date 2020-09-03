@@ -15,8 +15,7 @@ namespace Controllers_Homework.Controllers
             return View(pizzas);
             
         }
-
-        [HttpGet("create")]
+    
         public IActionResult Create()
         {
             return View();
@@ -35,16 +34,11 @@ namespace Controllers_Homework.Controllers
             return RedirectToAction("Index");
         }
 
-
-
-
         public IActionResult Details(int id)
         {
             PizzaModel pizza = PizzaDb.Pizzas.SingleOrDefault(p => p.Id == id);
             return View(pizza);
         }
-
-
 
         //[HttpGet]     
         //public IActionResult DeletePizza(int id)
@@ -52,9 +46,6 @@ namespace Controllers_Homework.Controllers
         //    PizzaModel models = PizzaDb.Pizzas.FirstOrDefault(p => p.Id == id);
         //    return View(models);
         //}
-
-
-
 
 
         //[HttpPost]

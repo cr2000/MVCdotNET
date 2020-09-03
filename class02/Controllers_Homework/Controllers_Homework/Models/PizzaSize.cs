@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace Controllers_Homework.Models
 {
-    public enum PizzaSize
+    public enum PizzaSize:int
     {
-        small = 1,
-        medium,
-        large
+        Small = 0,
+        Medium = 1,
+        Large = 2
     }
 }

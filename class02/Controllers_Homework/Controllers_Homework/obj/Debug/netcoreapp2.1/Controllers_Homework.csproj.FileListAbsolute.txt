@@ -8,7 +8,6 @@ C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\C
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\bin\Debug\netcoreapp2.1\Controllers_Homework.pdb
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\bin\Debug\netcoreapp2.1\Controllers_Homework.Views.dll
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\bin\Debug\netcoreapp2.1\Controllers_Homework.Views.pdb
-C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Controllers_Homework.csprojAssemblyReference.cache
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Controllers_Homework.AssemblyInfoInputs.cache
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Controllers_Homework.AssemblyInfo.cs
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Controllers_Homework.RazorAssemblyInfo.cache
@@ -35,6 +34,7 @@ C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\C
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Controllers_Homework.csproj.CopyComplete
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Controllers_Homework.csproj.CoreCompileInputs.cache
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Index.cshtml.g.cs
-C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Create.cshtml.g.cs
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Details.cshtml.g.cs
 C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Delete.cshtml.g.cs
+C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Controllers_Homework.csprojAssemblyReference.cache
+C:\Users\arrma\OneDrive\Desktop\webdevelopment\MVCdotNET\mvc_Homeworks\class02\Controllers_Homework\Controllers_Homework\obj\Debug\netcoreapp2.1\Razor\Views\Pizza\Create.cshtml.g.cs
