@@ -106,12 +106,12 @@ using Controllers_Homework.Models;
             WriteLiteral("\r\n        </dd>\r\n   \r\n    </dl>\r\n    \r\n    ");
             EndContext();
             BeginContext(590, 161, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d06053a7e4564901ac516bbb3f2994e4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "99b98ecabc024c5bb9dee7f4d735f810", async() => {
                 BeginContext(616, 84, true);
                 WriteLiteral("\r\n        <input type=\"submit\" value=\"Delete\" class=\"btn btn-default\" /> |\r\n        ");
                 EndContext();
                 BeginContext(700, 38, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "869e61cf531b44b288fb5fa3552a14a2", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b5be7dd9793b45d89e5750a65de710b0", async() => {
                     BeginContext(722, 12, true);
                     WriteLiteral("Back to List");
                     EndContext();
